@@ -7,13 +7,22 @@
 <br/>
 
 <h2>💻 Sobre o projeto</h2>
-<p>Primeiro projeto do Intensivão de JavaScript do canal  <a href="https://www.youtube.com/@HashtagProgramacao" target="_blank">Hashtag Programação.</a> A proposta do projeto é criar um player para audibook.</p> 
+<p>Primeiro projeto do Intensivão de JavaScript do canal  <a href="https://www.youtube.com/@HashtagProgramacao" target="_blank">Hashtag Programação.</a>O principal objetivo do intensivão era práticar a utilização do JavaScript na construção de páginas web no front-end e back-end. A proposta do projeto é criar um player para audibook.</p> 
 
 
 <h2>👩‍🎓 O que aprendi</h2>
-Nesse projeto o principal objetivo era práticar a utilização do JavaScript na construção de páginas web. Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo) e estrutura de condicionais.
+Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo) e estrutura de condicionais.
 
 <h3><strong><a href="https://kamilenna.github.io/Hashtag--Books/" target="_blank">Link do projeto</a></strong></h3>
+<hr/>
+
+<h3>📌Outros projetos desenvolvidos no Intensivão JavaScript</h3>
+<ul>
+    <li><a href="https://github.com/kamilenna/Pagina-Apple-Watch" target="_blank">Projeto 2</a></li>
+    <li><a href="https://github.com/kamilenna/Cardapio-digital---hashtaurante" target="_blank">Projeto 3</a></li>
+    <li><a href="https://github.com/kamilenna/Hashtag-Chat" target="_blank">Projeto 4</a></li>
+</ul>
+
 
 <br>
 
