@@ -30,4 +30,5 @@ Nesse projeto o principal objetivo era práticar a utilização do JavaScript na
 <h2>🦸 Autor(a)</h2>
 <a href="https://karlamilenna.netlify.app/" target="_blank">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62101215?v=4" width="100px;" alt=""/>
+ <br />
  <h3><b>Karla Milenna</b></h3></a>
