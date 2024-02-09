@@ -28,7 +28,10 @@ Nesse projeto o principal objetivo era práticar a utilização do JavaScript na
 <br>
 
 <h2>🦸 Autor(a)</h2>
-<a href="https://karlamilenna.netlify.app/" target="_blank">
+<a href="https://karlamilenna.netlify.app/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62101215?v=4" width="100px;" alt=""/>
  <br />
  <h3><b>Karla Milenna</b></h3></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-milenna/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karla.milenna1@gmail.com)
