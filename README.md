@@ -13,7 +13,7 @@
 <h2>👩‍🎓 O que aprendi</h2>
 Nesse projeto o principal objetivo era práticar a utilização do JavaScript na construção de páginas web. Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo) e estrutura de condicionais.
 
-<h3><strong><a href="" target="_blank">Link do projeto</a></strong></h3>
+<h3><strong><a href="https://kamilenna.github.io/Hashtag--Books/" target="_blank">Link do projeto</a></strong></h3>
 
 <br>
 
@@ -30,5 +30,4 @@ Nesse projeto o principal objetivo era práticar a utilização do JavaScript na
 <h2>🦸 Autor(a)</h2>
 <a href="https://karlamilenna.netlify.app/" target="_blank">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62101215?v=4" width="100px;" alt=""/>
- <br />
  <h3><b>Karla Milenna</b></h3></a>
